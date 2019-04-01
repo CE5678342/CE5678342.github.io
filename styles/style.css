@@ -1,0 +1,49 @@
+body {
+	width: 1195px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+	background-color: red;
+}
+
+p, li {
+  color: yellow;
+}
+
+p {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.bigtext {
+	color: yellow;
+	font-size: 40px;
+	text-align: center;
+}
+
+html {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: yellow;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px 1;
+	color: yellow;
+	text-shadow: 3px 3px 1px black;
+}
+
+h2, h3, h4 {
+	color: yellow;
+	padding: 5px 1;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 1095px;
+}
